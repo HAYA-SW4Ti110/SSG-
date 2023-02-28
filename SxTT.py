@@ -1130,7 +1130,7 @@ def dynamic(text):
         print('\r'+text+o),
         sys.stdout.flush();time.sleep(1)
 
-def SSG():
+def rehan():
 	os.system('clear')
 	print(logo)
 	print('[1] RANDOM PAK CLONING')
@@ -1447,7 +1447,7 @@ def chos():
             manshera.submit(fcrack,uid,pwx,tl)
     print('Crack process has been completed')
     print('Ids saved in ok.txt,cp.txt')
-    SSG()
+    rehan()
 #_____
 def fcrack(uid,pwx,tl):
     #print(user)
